@@ -1,0 +1,6 @@
+docutils==0.12
+logging==0.4.9.6
+datetime==4.1.1
+argparse==1.4.0
+mime==0.1.0
+email==4.0.2
